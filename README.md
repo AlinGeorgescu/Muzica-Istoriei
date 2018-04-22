@@ -2,74 +2,22 @@
 
 Muzica Istoriei este o aplicație simplă, cosntruită sub forma unui site web ce prezintă într-un mod plăcut evenimente istorice și impactul  acestora în cultura mondială.
 
-### Instalare
+## Rulare
 
-Se descarcă proiectul sub forma unei arhive prin apăsarea butonului verde.
-![alt text](https://drive.google.com/file/d/10OcWYewIYYu4Abqa1V9gKb1XC5ojUbUW/view?usp=sharing)
+* Se descarcă proiectul sub forma unei arhive prin apăsarea butonului verde. *Clone or Download*.
+* Se dezarhivează și se deschide proiectul cu un browser web (de preferat Google Chrome) prin pagina *index.html*.
 
-```
-Give the example
-```
+## Construit cu:
 
-And repeat
+* HTML 5
+* CSS
+* JavaScript
 
-```
-until finished
-```
+## Autori
 
-End with an example of getting some data out of the system or using it for a little demo
+* **Gerogescu Alin-Andrei**
+* **Săvuță Irina** - Profesor la C.N. „Al. I. Cuza” Ploiești
 
-## Running the tests
+## Licență
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
