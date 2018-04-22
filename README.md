@@ -24,4 +24,4 @@ Proiect licențiat sub GNU General Public License v3.0 - vezi fișierul [LICENSE
 
 ## Probleme întâmpinate
 
-Dacă intâmpinați probleme sau observați bug-uri mă puteți contacta la adresa [alinandrei2007@yahoo.com](alinandrei2007@yahoo.com).
+Dacă întâmpinați probleme sau observați bug-uri mă puteți contacta la adresa [alinandrei2007@yahoo.com](alinandrei2007@yahoo.com).
