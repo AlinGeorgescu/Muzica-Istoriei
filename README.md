@@ -1,10 +1,10 @@
 # Muzica-Istoriei
 
-Muzica Istoriei este o aplicație simplă, cosntruită sub forma unui site web ce prezintă într-un mod plăcut evenimente istorice și impactul  acestora în cultura mondială.
+Muzica Istoriei este o aplicație simplă, cosntruită sub forma unui site web, ce prezintă într-un mod plăcut evenimente istorice și impactul  acestora în cultura mondială.
 
 ## Rulare
 
-* Se descarcă proiectul sub forma unei arhive prin apăsarea butonului verde. *Clone or Download*.
+* Se descarcă proiectul sub forma unei arhive prin apăsarea butonului verde *Clone or Download*.
 * Se dezarhivează și se deschide proiectul cu un browser web (de preferat Google Chrome) prin pagina *index.html*.
 
 ## Construit cu:
