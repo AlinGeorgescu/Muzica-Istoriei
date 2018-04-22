@@ -15,8 +15,8 @@ Muzica Istoriei este o aplicație simplă, cosntruită sub forma unui site web, 
 
 ## Autori
 
-* **Gerogescu Alin-Andrei**
-* **Săvuță Irina** - Profesor la C.N. „Al. I. Cuza” Ploiești
+* **Georgescu Alin-Andrei**
+* **Săvuță Irina-Ema** - Profesor la C.N. „Al. I. Cuza” Ploiești
 
 ## Licență
 
