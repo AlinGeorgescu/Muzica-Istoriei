@@ -5,7 +5,7 @@ Muzica Istoriei este o aplicație simplă, cosntruită sub forma unui site web, 
 ## Rulare
 
 * Se descarcă proiectul sub forma unei arhive prin apăsarea butonului verde *Clone or Download*.
-* Se dezarhivează și se deschide proiectul cu un browser web (de preferat Google Chrome) prin pagina *index.html*.
+* Se dezarhivează și se deschide proiectul cu un browser web (de preferat Google Chrome sau Mozilla Firefox) prin pagina *index.html*.
 
 ## Construit cu:
 
