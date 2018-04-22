@@ -20,4 +20,4 @@ Muzica Istoriei este o aplicație simplă, cosntruită sub forma unui site web, 
 
 ## Licență
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
